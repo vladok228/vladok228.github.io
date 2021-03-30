@@ -41,16 +41,16 @@ p {
   width: 250px;
   height: auto;
   min-height: auto;
-  color: #fff;
+  color: black;
 }
 .sidebar-wrapper a {
-  color: #fff;
+  color: purple;
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;
   background: rgba(0, 0, 0, 0.2);
   text-align: center;
-  color: #fff;
+  color: black;
     
 }
 .profile{
@@ -127,12 +127,12 @@ p {
   margin-top: 0;
 }
 .sidebar-wrapper .education-container .time {
-  color: rgba(255, 255, 255, 0.6);
+  color: Blue;
   font-weight: 500;
   margin-bottom: 0px;
 }
 .sidebar-wrapper .languages-container .lang-desc {
-  color: rgba(255, 255, 255, 0.6);
+  color: black;
 }
 .sidebar-wrapper .languages-list {
   margin-bottom: 0;
